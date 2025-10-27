@@ -5,9 +5,12 @@
 
 ---
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lopeslyra10&show_icons=true&theme=dracula" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopeslyra10&layout=compact&langs_count=11&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lopeslyra10&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopeslyra10&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
+    width="350""/>
+  <img src="https://streak-stats.demolab.com?user=lopeslyra10&theme=tokyonight&hide_border=true"/>
 </div>
+
 
 ---
 ## 🚀 Tecnologias & Ferramentas
